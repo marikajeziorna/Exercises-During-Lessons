@@ -1,3 +1,5 @@
+package Lessons01to03;
+
 public class Lesson02zadanie02 {
     public static void main(String[] args) {
         double number1 = 12;

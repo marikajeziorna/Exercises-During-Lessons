@@ -1,3 +1,5 @@
+package Lessons01to03;
+
 public class Lesson02zadanie03 {
     public static void main(String[] args) {
         int number1 = 11;
@@ -18,7 +20,5 @@ public class Lesson02zadanie03 {
         System.out.println(person1.age);
         System.out.println(person1.address.city);
         System.out.println(person1);
-
-
     }
 }
